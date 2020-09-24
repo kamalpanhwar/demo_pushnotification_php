@@ -7,9 +7,14 @@ Clonse repository using following commands
 
 
 
-`git clone https://github.com/kamalpanhwar/demo_pushnotification_php`
+```
+git clone https://github.com/kamalpanhwar/demo_pushnotification_php
+```
 
-`composer install`
+```
+composer install
+```
+
 
 
 
