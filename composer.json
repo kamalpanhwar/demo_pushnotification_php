@@ -1,0 +1,15 @@
+{
+    "name": "kamalpanhwar/push_notifications",
+    "description": "Demo project of push notification",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kamal Uddin Panhwar",
+            "email": "kamalpanhwar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "sngrl/php-firebase-cloud-messaging": "dev-master"
+    }
+}
